@@ -1,26 +1,26 @@
 export default [
   {
-    title: 'Lorem ipsum dolor sit amet, consectetur adipiscing',
+    title: '"Gran aplicación"',
     content:
-      'Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Sit amet consectetur adipiscing elit duis.',
-    customerName: 'Jane Doe',
-    customerTitle: 'Director of Research and Data',
+      'Gracias por esta gran aplicación, es muy buena, la idea de un fondo de pantalla desde un satélite es muy original, gracias.',
+    customerName: 'Elen Chufe',
+    customerTitle: '',
     customerImage: 'https://placeimg.com/150/150/people'
   },
   {
-    title: 'Lorem ipsum dolor sit amet, consectetur adipiscing',
+    title: '"va de perlas"',
     content:
-      'Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Sit amet consectetur adipiscing elit duis.',
-    customerName: 'John Doe',
-    customerTitle: 'Director of Research and Data',
+      'Esta buena la app, por el momento anda todo bien y lo probé de un punto a otro y realmente se mueve a donde estoy.',
+    customerName: 'Elvis Tec',
+    customerTitle: '',
     customerImage: 'https://placeimg.com/150/150/people'
   },
   {
-    title: 'Lorem ipsum dolor sit amet, consectetur adipiscing',
+    title: '"rapido y facil de usar"',
     content:
-      'Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Sit amet consectetur adipiscing elit duis.',
-    customerName: 'Jane Smith',
-    customerTitle: 'Director of Research and Data',
+      'Tal y como deberia de ser una app, perfecta.',
+    customerName: 'Elsa Polindo',
+    customerTitle: '',
     customerImage: 'https://placeimg.com/150/150/people'
   }
 ];

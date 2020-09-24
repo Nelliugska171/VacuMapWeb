@@ -5,7 +5,7 @@ const Footer = () => (
     <div className="flex -mx-3">
       <div className="flex-1 px-3">
         <h2 className="text-lg font-semibold">Sobre VacuMap</h2>
-        <p className="mt-5">Ayudamos a la población con technologia simple y eficaz.</p>
+        <p className="mt-5">"Ayudamos a la población con tecnologia simple y eficaz."</p>
       </div>
       <div className="flex-1 px-3">
         <h2 className="text-lg font-semibold">Contacto</h2>
