@@ -16,7 +16,7 @@ export default [
     customerImage: 'https://placeimg.com/150/150/people'
   },
   {
-    title: '"rapido y facil de usar"',
+    title: '"rápido y fácil de usar"',
     content:
       'Tal y como deberia de ser una app, perfecta.',
     customerName: 'Elsa Polindo',

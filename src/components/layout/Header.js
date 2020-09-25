@@ -20,14 +20,14 @@ const Header = () => (
           Servicio
         </AnchorLink>
         <AnchorLink className="px-4" href="#stats">
-          estadisticas
+          Estadísticas
         </AnchorLink>
         <AnchorLink className="px-4" href="#testimonials">
           Opiniones
         </AnchorLink>
       </div>
       <div className="hidden md:block">
-        <Button className="text-sm">Descárgala ya!</Button>
+        <Button className="text-sm">Descárgala ya</Button>
       </div>
     </div>
   </header>
