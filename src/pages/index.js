@@ -29,7 +29,7 @@ export default () => (
         </div>
         <div className="lg:w-1/2">
           {/* <HeroImage /> */}
-          <img src={require('../svg/img.png')}/>
+          <img src={require()}/>
         </div>
       </div>
     </section>
