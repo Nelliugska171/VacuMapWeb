@@ -17,10 +17,10 @@ export default () => (
       <div className="container mx-auto px-8 lg:flex">
         <div className="text-center lg:text-left lg:w-1/2">
           <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold leading-none">
-            Encuentre la vacuna más cercana con VacuMap
+            Encuentre la vacuna más cercana con VacuMa
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
-            La app de acuMap le permitirá ver en que farmacias y hospitales de Barcelona la vacuna ante el Covid-19 está disponible de forma gratuita. 
+            La app de VacuMap le permitirá ver en que farmacias y hospitales de Barcelona la vacuna ante el Covid-19 está disponible de forma gratuita. 
           </p>
           <p className="mt-8 md:mt-12">
             <Button size="lg">Descárgala ya</Button>
