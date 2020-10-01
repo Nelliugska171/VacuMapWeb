@@ -17,10 +17,10 @@ export default () => (
       <div className="container mx-auto px-8 lg:flex">
         <div className="text-center lg:text-left lg:w-1/2">
           <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold leading-none">
-            Encuentre la vacuna más cercana con VacuMap
+           
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
-            La app de VacuMap le permitirá ver en que farmacias y hospitales de Barcelona la vacuna ante el Covid-19 está disponible de forma gratuita. 
+            
           </p>
           <p className="mt-8 md:mt-12">
             <Button size="lg">Descárgala ya</Button>
@@ -57,7 +57,7 @@ export default () => (
             <Card className="mb-8">
               <p className="font-semibold text-xl">use la app</p>
               <p className="mt-4">
-              toda la información de disponibilidad ya estará a su alcance.
+            
               </p>
             </Card>
           </div>
@@ -70,7 +70,7 @@ export default () => (
         <div className="lg:pr-32 xl:pr-48">
           <h3 className="text-3xl font-semibold leading-tight">Intuitivo</h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-            Con la interfaz de la app de VacuMap es de gran facilidad poder ver la disponibilidad de la vacuna contra el Covid-19 en farmacias y hospitales.
+            
           </p>
         </div>
       }
@@ -84,7 +84,7 @@ export default () => (
           Instantaneo
           </h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-          Al abrir la app podrás disponer directamente de toda la información sin necesitar darse de alta.
+          
           </p>
         </div>
       }
@@ -97,7 +97,7 @@ export default () => (
             Actualizado
           </h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-          La información de disponibilidad estará actualizada cada dia ya que a diferencia de los humanos, el virus no descansa ni los domingos!
+         
           </p>
         </div>
       }
@@ -134,7 +134,7 @@ export default () => (
     <section className="container mx-auto my-20 py-24 bg-gray-200 rounded-full text-center">
       <h3 className="text-5xl font-semibold">Haga el primer paso</h3>
       <p className="mt-8 text-xl font-light">
-        Encuentra la vacuna ante el covid-19 más cercana. (disponible solo en Barcelona)
+
       </p>
       <p className="mt-8">
         <Button size="xl">Descargue la app!</Button>
