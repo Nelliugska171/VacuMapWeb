@@ -20,7 +20,7 @@ export default () => (
             Encuentre la vacuna más cercana con VacuMap
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
-            La app de VacuMap le permitirá ver en que farmacias y hospitales de Barcelona la vacuna ante el Covid-19 está disponible de forma gratuita. 
+            La app de acuMap le permitirá ver en que farmacias y hospitales de Barcelona la vacuna ante el Covid-19 está disponible de forma gratuita. 
           </p>
           <p className="mt-8 md:mt-12">
             <Button size="lg">Descárgala ya</Button>
