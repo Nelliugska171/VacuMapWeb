@@ -11,10 +11,10 @@ const Footer = () => (
         <h2 className="text-lg font-semibold">Contacto</h2>
         <ul className="mt-4 leading-loose">
           <li>
-            <a href="https://codebushi.com">+34 626 190 322</a>
+            <a href="">+34 626 190 322</a>
           </li>
           <li>
-            <a href="https://codebushi.com">contacto@vacumap.com</a>
+            <a href="">contacto@vacumap.com</a>
           </li>
         </ul>
       </div>
@@ -22,13 +22,13 @@ const Footer = () => (
         <h2 className="text-lg font-semibold">Redes Sociales</h2>
         <ul className="mt-4 leading-loose">
           <li>
-            <a href="https://dev.to/changoman">Facebook</a>
+            <a href="">Facebook</a>
           </li>
           <li>
-            <a href="https://twitter.com/HuntaroSan">Instagram</a>
+            <a href="">Instagram</a>
           </li>
           <li>
-            <a href="https://github.com/codebushi/gatsby-starter-lander"></a>
+            <a href=""></a>
           </li>
         </ul>
       </div>
