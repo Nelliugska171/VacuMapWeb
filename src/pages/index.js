@@ -17,7 +17,7 @@ export default () => (
       <div className="container mx-auto px-8 lg:flex">
         <div className="text-center lg:text-left lg:w-1/2">
           <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold leading-none">
-            Encuentre la vacuna más cercana con VacuMap
+            (WEB EN CONTRUCCIÓN) Encuentre la vacuna más cercana con VacuMap
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
             La app de VacuMap le permitirá ver en que farmacias y hospitales de Barcelona la vacuna ante el Covid-19 está disponible de forma gratuita. 
@@ -105,7 +105,7 @@ export default () => (
     />
     <section id="stats" className="py-20 lg:pt-32">
       <div className="container mx-auto text-center">
-        <LabelText className="text-gray-600">Disponible en Barcelona (datos inventados)</LabelText>
+        <LabelText className="text-gray-600">Disponible en Barcelona (datos ficticios)</LabelText>
         <div className="flex flex-col sm:flex-row mt-8 lg:px-24">
           <div className="w-full sm:w-1/3">
             <StatsBox primaryText="98%" secondaryText="Hospitales informando" />
